@@ -8,7 +8,7 @@ spec:
   releaseName: app-b
   chart:
     repository: https://raw.githubusercontent.com/oschira/flux-experiment-helm-repo/master/
-    version: 1.0
+    version: 1.0.0
     name: app-b
   values:
     replicaCount: 1
